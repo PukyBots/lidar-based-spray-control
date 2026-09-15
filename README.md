@@ -6,14 +6,7 @@ The system uses a vertically mounted 2D LiDAR to sense orchard canopy structure 
 
 <div align="center">
 
-<img src="images/3.png" width="800" height="400">
-
-</div>
- <br>
-
-<div align="center">
-
-<img src="images/2.png" width="800" height="400">
+<img src="images/4.jpeg" width="600" height="300">
 
 </div>
 
@@ -55,6 +48,12 @@ This project explores a perception-driven approach:
              └──────────────┘
 ```
 
+<div align="center">
+
+<img src="images/3.png" width="800" height="400">
+
+</div>
+
 ---
 
 ## System Geometry
@@ -81,6 +80,12 @@ The vehicle travels along the X axis.
 
      Orchard canopy / tree row
 ```
+
+<div align="center">
+
+<img src="images/2.png" width="800" height="400">
+
+</div>
 
 ---
 
